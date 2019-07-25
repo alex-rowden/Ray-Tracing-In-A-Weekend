@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  Ray-Tracing-In-A-Weekend.vcxproj -> C:\Users\ARR87\source\repos\Ray-Tracing-In-A-Weekend\RayTracingInAWeekend\Release\Ray-Tracing-In-A-Weekend.exe
